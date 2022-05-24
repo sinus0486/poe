@@ -4479,7 +4479,7 @@ PlayEffect Cyan
 MinimapIcon 1 Cyan Pentagon
 ItemLevel >= 73
 
-Show # %D4 $type->sentinel->drones $tier->stalkerlvl
+Hide # %D4 $type->sentinel->drones $tier->stalkerlvl
 ItemLevel <= 67
 Class "Sentinel Drone"
 BaseType == "Ancient Stalker Sentinel" "Brimstone Stalker Sentinel" "Bronze Stalker Sentinel" "Cobalt Stalker Sentinel" "Cryptic Stalker Sentinel" "Emberstone Stalker Sentinel" "Obsidian Stalker Sentinel" "Primeval Stalker Sentinel" "Rusted Stalker Sentinel"
@@ -4536,7 +4536,7 @@ PlayEffect Cyan
 MinimapIcon 1 Cyan Pentagon
 ItemLevel >= 78
 
-Show # %D4 $type->sentinel->drones $tier->pandelvl
+Hide # %D4 $type->sentinel->drones $tier->pandelvl
 ItemLevel <= 67
 Class "Sentinel Drone"
 BaseType == "Ancient Pandemonium Sentinel" "Brimstone Pandemonium Sentinel" "Bronze Pandemonium Sentinel" "Cobalt Pandemonium Sentinel" "Cryptic Pandemonium Sentinel" "Emberstone Pandemonium Sentinel" "Obsidian Pandemonium Sentinel" "Primeval Pandemonium Sentinel"
@@ -4547,7 +4547,7 @@ PlayAlertSound 2 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Pentagon
 
-Show # %D6 $type->sentinel->drones $tier->apext1
+Hide # %D6 $type->sentinel->drones $tier->apext1
 Rarity Rare
 Class "Sentinel Drone"
 BaseType == "Ancient Apex Sentinel" "Cosmic Apex Sentinel" "Cryptic Apex Sentinel" "Obsidian Apex Sentinel" "Primeval Apex Sentinel"
@@ -4559,7 +4559,7 @@ PlayAlertSound 2 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Pentagon
 
-Show # %D5 $type->sentinel->drones $tier->apext2
+Hide # %D5 $type->sentinel->drones $tier->apext2
 Rarity Rare
 Class "Sentinel Drone"
 BaseType == "Emberstone Apex Sentinel"
@@ -4570,7 +4570,7 @@ PlayAlertSound 2 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Pentagon
 
-Show # %D5 $type->sentinel->drones $tier->apexr
+Hide # %D5 $type->sentinel->drones $tier->apexr
 Rarity Rare
 Class "Sentinel Drone"
 BaseType == "Ancient Apex Sentinel" "Brimstone Apex Sentinel" "Bronze Apex Sentinel" "Cobalt Apex Sentinel" "Cosmic Apex Sentinel" "Cryptic Apex Sentinel" "Emberstone Apex Sentinel" "Obsidian Apex Sentinel" "Primeval Apex Sentinel"
@@ -4581,7 +4581,7 @@ PlayAlertSound 2 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Pentagon
 
-Show # %D5 $type->sentinel->drones $tier->apexm
+Hide # %D5 $type->sentinel->drones $tier->apexm
 Rarity Magic
 Class "Sentinel Drone"
 BaseType == "Ancient Apex Sentinel" "Brimstone Apex Sentinel" "Bronze Apex Sentinel" "Cobalt Apex Sentinel" "Cosmic Apex Sentinel" "Cryptic Apex Sentinel" "Emberstone Apex Sentinel" "Obsidian Apex Sentinel" "Primeval Apex Sentinel"
@@ -4593,7 +4593,7 @@ PlayEffect Cyan
 MinimapIcon 1 Cyan Pentagon
 ItemLevel >= 73
 
-Show # %D4 $type->sentinel->drones $tier->apexlvl
+Hide # %D4 $type->sentinel->drones $tier->apexlvl
 ItemLevel <= 67
 Class "Sentinel Drone"
 BaseType == "Ancient Apex Sentinel" "Brimstone Apex Sentinel" "Bronze Apex Sentinel" "Cobalt Apex Sentinel" "Cosmic Apex Sentinel" "Cryptic Apex Sentinel" "Emberstone Apex Sentinel" "Obsidian Apex Sentinel" "Primeval Apex Sentinel"
