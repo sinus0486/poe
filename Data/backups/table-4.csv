@@ -1,0 +1,20 @@
+Name,Stats,IIQ,PackSize,IIR,Spawn Weighting
+Overlord's,6% increased Pack sizeUnique Boss deals 20% increased DamageUnique Boss has 25% increased Attack and Cast Speed,16%,6%,9%,mid_tier_map 1000no_boss 0expedition_logbook 0primordial_map 0default 0
+Titan's,5% increased Pack sizeUnique Boss has 30% increased LifeUnique Boss has 55% increased Area of Effect,13%,5%,8%,mid_tier_map 1000no_boss 0expedition_logbook 0primordial_map 0default 0
+Unwavering,5% increased Pack sizeMonsters cannot be Stunned(20-24)% more Monster Life,13%,5%,8%,mid_tier_map 1000expedition_logbook 0primordial_map 0default 0
+Freezing,6% increased Pack sizeMonsters deal (70-89)% extra Physical Damage as Cold,16%,6%,9%,mid_tier_map 1000expedition_logbook 0primordial_map 0default 0
+Savage,7% increased Pack size(18-21)% increased Monster Damage,19%,7%,11%,mid_tier_map 1000expedition_logbook 0primordial_map 0default 0
+Mirrored,4% increased Pack sizeMonsters reflect 15% of Elemental Damage,10%,4%,6%,mid_tier_map 600expedition_logbook 0primordial_map 0default 0
+Fleet,7% increased Pack size(20-25)% increased Monster Movement Speed(25-35)% increased Monster Attack Speed(25-35)% increased Monster Cast Speed,19%,7%,11%,mid_tier_map 1000expedition_logbook 0primordial_map 0default 0
+Burning,6% increased Pack sizeMonsters deal (70-89)% extra Physical Damage as Fire,16%,6%,9%,mid_tier_map 1000expedition_logbook 0primordial_map 0default 0
+Fecund,5% increased Pack size(30-39)% more Monster Life,13%,5%,8%,mid_tier_map 1000expedition_logbook 0primordial_map 0default 0
+Shocking,6% increased Pack sizeMonsters deal (70-89)% extra Physical Damage as Lightning,16%,6%,9%,mid_tier_map 1000expedition_logbook 0primordial_map 0default 0
+Punishing,4% increased Pack sizeMonsters reflect 15% of Physical Damage,10%,4%,6%,mid_tier_map 600expedition_logbook 0primordial_map 0default 0
+Armoured,5% increased Pack size+30% Monster Physical Damage Reduction,13%,5%,8%,mid_tier_map 800expedition_logbook 0primordial_map 0default 0
+Resistant,5% increased Pack size+20% Monster Chaos Resistance+30% Monster Elemental Resistance,13%,5%,8%,mid_tier_map 800expedition_logbook 0primordial_map 0default 0
+Impervious,"4% increased Pack sizeMonsters have a 35% chance to avoid Poison, Impale, and Bleeding",10%,4%,6%,mid_tier_map 800expedition_logbook 0primordial_map 0default 0
+Empowered,5% increased Pack sizeMonsters have a 15% chance to cause Elemental Ailments on Hit,13%,5%,8%,mid_tier_map 800expedition_logbook 0primordial_map 0default 0
+Hexwarded,5% increased Pack size40% less effect of Curses on Monsters,13%,5%,8%,mid_tier_map 800expedition_logbook 0primordial_map 0default 0
+Impaling,6% increased Pack sizeMonsters have 40% chance to Impale with Attacks,16%,6%,9%,primordial_map 0mid_tier_map 800default 0
+Oppressive,5% increased Pack sizeMonsters have +45% chance to Suppress Spell Damage,13%,5%,8%,primordial_map 0mid_tier_map 800default 0
+Buffered,5% increased Pack sizeMonsters gain (30-39)% of Maximum Life as Extra Maximum Energy Shield,13%,5%,8%,primordial_map 0mid_tier_map 800default 0

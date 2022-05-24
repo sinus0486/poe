@@ -1,0 +1,26 @@
+Name,Stats,IIQ,PackSize,IIR,Spawn Weighting
+of Flames,4% increased Pack sizeArea has patches of Burning Ground28 patches with Ground Effect per 100 tiles (Hidden)Ground Effect has a radius of 18 (Hidden),10%,4%,6%,top_tier_map 250maven_map 0expedition_logbook 0primordial_map 0default 0
+of Ice,4% increased Pack sizeArea has patches of Chilled Ground28 patches with Ground Effect per 100 tiles (Hidden)Ground Effect has a radius of 18 (Hidden),10%,4%,6%,top_tier_map 250maven_map 0expedition_logbook 0primordial_map 0default 0
+of Desecration,4% increased Pack sizeArea has patches of desecrated ground28 patches with Ground Effect per 100 tiles (Hidden)Ground Effect has a radius of 18 (Hidden),10%,4%,6%,top_tier_map 250maven_map 0expedition_logbook 0primordial_map 0default 0
+of Giants,5% increased Pack sizeMonsters have 100% increased Area of Effect,13%,5%,8%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Deadliness,6% increased Pack sizeMonsters have (360-400)% increased Critical Strike Chance+(41-45)% to Monster Critical Strike Multiplier,16%,6%,9%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Congealment,6% increased Pack sizeCannot Leech from Monsters,16%,6%,9%,top_tier_map 600maven_map 0expedition_logbook 0primordial_map 0default 0
+of Insulation,4% increased Pack sizeMonsters have 70% chance to Avoid Elemental Ailments,10%,4%,6%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Toughness,4% increased Pack sizeMonsters take (36-40)% reduced Extra Damage from Critical Strikes,10%,4%,6%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Elemental Weakness,5% increased Pack sizePlayers are Cursed with Elemental Weakness,13%,5%,8%,top_tier_map 1000maven_map 0expedition_logbook 0primordial_map 0default 0
+of Enfeeblement,5% increased Pack sizePlayers are Cursed with Enfeeble,13%,5%,8%,top_tier_map 1000maven_map 0expedition_logbook 0primordial_map 0default 0
+of Temporal Chains,5% increased Pack sizePlayers are Cursed with Temporal Chains,13%,5%,8%,top_tier_map 1000maven_map 0expedition_logbook 0primordial_map 0default 0
+of Vulnerability,5% increased Pack sizePlayers are Cursed with Vulnerability,13%,5%,8%,top_tier_map 1000maven_map 0expedition_logbook 0primordial_map 0default 0
+of Exposure,7% increased Pack size-(12-9)% maximum Player Resistances,19%,7%,11%,top_tier_map 1000maven_map 0expedition_logbook 0primordial_map 0default 0
+of Stasis,"6% increased Pack sizePlayers cannot Regenerate Life, Mana or Energy Shield",16%,6%,9%,mid_tier_map 300top_tier_map 600expedition_logbook 0primordial_map 0default 0
+of Smothering,6% increased Pack sizePlayers have 60% less Recovery Rate of Life and Energy Shield,16%,6%,9%,top_tier_map 750maven_map 0expedition_logbook 0primordial_map 0default 0
+of Rust,5% increased Pack sizePlayers have 40% reduced Chance to BlockPlayers have 30% less Armour,13%,5%,8%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Miring,5% increased Pack sizePlayers have -20% to amount of Suppressed Spell Damage PreventedMonsters have 50% increased Accuracy Rating,13%,5%,8%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Drought,5% increased Pack sizePlayers gain 50% reduced Flask Charges,13%,5%,8%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Impotence,5% increased Pack sizePlayers have 25% less Area of Effect,13%,5%,8%,top_tier_map 800maven_map 0expedition_logbook 0primordial_map 0default 0
+of Lightning,4% increased Pack sizeArea has patches of Shocked Ground which increase Damage taken by 50%28 patches with Ground Effect per 100 tiles (Hidden)Ground Effect has a radius of 18 (Hidden),10%,4%,6%,top_tier_map 250maven_map 0expedition_logbook 0primordial_map 0default 0
+of Consecration,4% increased Pack sizeAreas have patches of Consecrated Ground28 patches with Ground Effect per 100 tiles (Hidden)Ground Effect has a radius of 18 (Hidden),10%,4%,6%,primordial_map 0top_tier_map 250default 0
+of Fatigue,5% increased Pack sizePlayers have 40% less Cooldown Recovery Rate,13%,5%,8%,primordial_map 0top_tier_map 650default 0
+of Transience,4% increased Pack sizeBuffs on Players expire 70% faster,10%,4%,6%,primordial_map 0top_tier_map 650default 0
+of Doubt,5% increased Pack sizePlayers have 60% reduced effect of Non-Curse Auras from Skills,13%,5%,8%,primordial_map 0top_tier_map 800default 0
+of Imprecision,5% increased Pack sizePlayers have 25% less Accuracy Rating,13%,5%,8%,primordial_map 0top_tier_map 800default 0

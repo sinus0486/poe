@@ -1,0 +1,11 @@
+Name,Stats,IIQ,PackSize,IIR,Spawn Weighting
+of Bloodlines,4% increased Pack sizeMagic Monster Packs each have a Bloodline Mod(20-30)% more Magic Monsters,10%,4%,6%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+of Endurance,5% increased Pack sizeMonsters gain an Endurance Charge on Hit,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 800
+of Frenzy,5% increased Pack sizeMonsters gain a Frenzy Charge on Hit,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 800
+of Power,5% increased Pack sizeMonsters gain a Power Charge on Hit,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 800
+of Balance,4% increased Pack sizePlayers cannot inflict Exposure,10%,4%,6%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+of Venom,6% increased Pack sizeMonsters Poison on Hit,16%,6%,9%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+of Blinding,4% increased Pack sizeMonsters Blind on Hit,10%,4%,6%,maven_map 0expedition_logbook 0primordial_map 0default 650
+of Carnage,4% increased Pack sizeMonsters Maim on Hit with Attacks,10%,4%,6%,maven_map 0expedition_logbook 0primordial_map 0default 600
+of Impedance,4% increased Pack sizeMonsters Hinder on Hit with Spells,10%,4%,6%,maven_map 0expedition_logbook 0primordial_map 0default 600
+of Enervation,"4% increased Pack sizeMonsters steal Power, Frenzy and Endurance charges on Hit",10%,4%,6%,maven_map 0expedition_logbook 0primordial_map 0default 800

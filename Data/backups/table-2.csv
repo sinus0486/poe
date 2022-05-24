@@ -1,0 +1,25 @@
+Name,Stats,IIQ,PackSize,IIR,Spawn Weighting
+Otherworldly,4% increased Pack sizeSlaying Enemies close together has a 13% chance to attract monsters from Beyond,10%,4%,6%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 650
+Chaining,6% increased Pack sizeMonsters' skills Chain 2 additional times,16%,6%,9%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+Splitting,7% increased Pack sizeMonsters fire 2 additional Projectiles,19%,7%,11%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+Abhorrent,6% increased Pack sizeArea is inhabited by Abominations,16%,6%,9%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Feral,6% increased Pack sizeArea is inhabited by Animals,16%,6%,9%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Demonic,5% increased Pack sizeArea is inhabited by Demons,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Haunting,5% increased Pack sizeArea is inhabited by Ghosts,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Capricious,5% increased Pack sizeArea is inhabited by Goatmen,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Bipedal,5% increased Pack sizeArea is inhabited by Humanoids,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Feasting,6% increased Pack sizeArea is inhabited by Cultists of Kitava,16%,6%,9%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Lunar,5% increased Pack sizeArea is inhabited by Lunaris fanatics,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Emanant,5% increased Pack sizeArea is inhabited by ranged monsters,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Skeletal,5% increased Pack sizeArea is inhabited by Skeletons,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Solar,5% increased Pack sizeArea is inhabited by Solaris fanatics,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Slithering,5% increased Pack sizeArea is inhabited by Sea Witches and their Spawn,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Undead,5% increased Pack sizeArea is inhabited by Undead,13%,5%,8%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 150
+Conflagrating,4% increased Pack sizeAll Monster Damage from Hits always Ignites,10%,4%,6%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 650
+Unstoppable,4% increased Pack sizeMonsters' Action Speed cannot be modified to below base valueMonsters cannot be Taunted,10%,4%,6%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 650
+Multifarious,4% increased Pack sizeArea has increased monster variety,10%,4%,6%,secret_area 0unique_map 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+Anarchic,4% increased Pack sizeArea is inhabited by 2 additional Rogue Exiles,10%,4%,6%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+Antagonist's,5% increased Pack sizeRare Monsters each have a Nemesis Mod(20-30)% more Rare Monsters,13%,5%,8%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+Ceremonial,4% increased Pack sizeArea contains many Totems,10%,4%,6%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+Twinned,7% increased Pack sizeArea contains two Unique Bosses,19%,7%,11%,cannot_be_twinned 0secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
+Enthralled,6% increased Pack sizeUnique Bosses are Possessed,16%,6%,9%,secret_area 0maven_map 0expedition_logbook 0primordial_map 0default 1000
