@@ -2287,7 +2287,7 @@ Show # %D4 $type->socketslinks $tier->5linksleveling
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Diamond
 
-Show # %D4 $type->socketslinks $tier->5link6sockets
+Hide # %D4 $type->socketslinks $tier->5link6sockets
 	LinkedSockets >= 5
 	Sockets >= 6
 	Rarity <= Rare
@@ -2299,7 +2299,7 @@ Show # %D4 $type->socketslinks $tier->5link6sockets
 	PlayEffect Blue
 	MinimapIcon 2 Blue Hexagon
 
-Show # %D3 $type->socketslinks $tier->5links
+Hide # %D3 $type->socketslinks $tier->5links
 	LinkedSockets >= 5
 	AreaLevel >= 68
 	Rarity <= Rare
@@ -2309,7 +2309,7 @@ Show # %D3 $type->socketslinks $tier->5links
 	PlayEffect Blue
 	MinimapIcon 2 Blue Diamond
 
-Show # %DS3 $type->socketslinks $tier->6sockets
+Hide # %DS3 $type->socketslinks $tier->6sockets
 	Sockets >= 6
 	Rarity <= Rare
 	SetFontSize 45
