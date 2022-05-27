@@ -1,3 +1,46 @@
+#===============================================================================================================
+# Item sources for Regex testing.
+#===============================================================================================================
+
+#===============================================================================================================
+# [WELCOME] TABLE OF CONTENTS + QUICKJUMP TABLE
+#===============================================================================================================
+# [[0100]] Currency
+#   [0100] High Value
+# [[0200]] Weapons
+#   [0201] Scepters
+# [[0300]] Jewelry
+#   [0301] Belts
+#   [0302] Rings
+#   [0303] Amulets
+# [[0400]] Armor
+#   [0401] Helmets
+#   [0402] Body Armor
+#   [0403] Boots
+#   [0404] Gloves
+#   [0405] Shields
+# [[0500]] Skill Gems
+#   [0501] Active Skills
+# [[0600]] Map and Map-likes
+#   [0601] Maps
+#   [0602] Logbooks
+#   [0603] Contracts
+#   [0604] Blueprints
+# [[0600]] Sentinels
+#   [0603] Pandemonium Sentinels
+# [[0700]] Divination Cards
+
+
+
+
+
+#===============================================================================================================
+# [[0100]] Currency
+#===============================================================================================================
+
+#------------------------------------
+#   [0101] High Value
+#------------------------------------
 Item Class: Stackable Currency
 Rarity: Currency
 Exalted Orb
@@ -10,6 +53,15 @@ Right click this item then left click a rare item to apply it. Rare items can ha
 Shift click to unstack.
 
 
+
+
+#===============================================================================================================
+# [[0200]] Weapons
+#===============================================================================================================
+
+#------------------------------------
+#   [0201] Scepters
+#------------------------------------
 
 Item Class: Sceptres
 Rarity: Rare
@@ -42,7 +94,14 @@ Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown (crafted
 Spells Triggered this way have 150% more Cost (crafted)
 
 
+#===============================================================================================================
+# [[0300]] Jewelry
+#===============================================================================================================
 
+
+#------------------------------------
+#   [0301] Belts
+#------------------------------------
 
 Item Class: Belts
 Rarity: Rare
@@ -67,30 +126,115 @@ Has 1 Abyssal Socket (implicit)
 Regenerate 30 Life per second (crafted)
 +54 to maximum Mana (crafted)
 
+#------------------------------------
+#   [0302] Rings
+#------------------------------------
 
-Item Class: Maps
+Item Class: Rings
 Rarity: Rare
-Mystic Secrets
-Strand Map
+Death Grasp
+Two-Stone Ring
 --------
-Map Tier: 16
-Item Quantity: +69% (augmented)
-Item Rarity: +29% (augmented)
-Monster Pack Size: +19% (augmented)
-Quality: +20% (augmented)
+Requirements:
+Level: 64
 --------
 Item Level: 84
 --------
-Players cannot inflict Exposure
-Monsters Blind on Hit
-Area is inhabited by Abominations
-Players have 25% less Area of Effect
++16% to Fire and Lightning Resistances (implicit)
 --------
-Travel to this Map by using it in a personal Map Device. Maps can only be used once.
---------
-Corrupted
++45 to Dexterity
++14% to Damage over Time Multiplier
+13% increased Cast Speed
++31 to maximum Life
+Regenerate 25 Life per second (crafted)
++43 to maximum Mana (crafted)
+
+#------------------------------------
+#   [0303] Amulets
+#------------------------------------
 
 
+#=======================================================================
+# [[0400]] Armor
+#=======================================================================
+
+#------------------------------------
+#   [0401] Helmets
+#------------------------------------
+
+Item Class: Helmets
+Rarity: Normal
+Superior Bone Helmet
+--------
+Quality: +20% (augmented)
+Armour: 254 (augmented)
+Energy Shield: 52 (augmented)
+--------
+Requirements:
+Level: 73
+Str: 76
+Int: 76
+--------
+Sockets: B-R 
+--------
+Item Level: 85
+--------
+Minions deal 15% increased Damage (implicit)
+
+#------------------------------------
+#   [0402] Body Armour
+#------------------------------------
+
+Item Class: Body Armours
+Rarity: Rare
+Rune Sanctuary
+Full Dragonscale
+--------
+Quality: +20% (augmented)
+Armour: 636 (augmented)
+Evasion Rating: 504 (augmented)
+--------
+Requirements:
+Level: 69
+Str: 115
+Dex: 94
+Int: 106
+--------
+Sockets: B-R-W-B-B-G 
+--------
+Item Level: 83
+--------
++5% to all Elemental Resistances (implicit)
++1% to maximum Cold Resistance (implicit)
+--------
++30% chance to Suppress Spell Damage
++122 to maximum Life
+Regenerate 137.9 Life per second
++17% to Fire Resistance
+Gain 10% of Maximum Life as Extra Maximum Energy Shield (crafted)
+Searing Exarch Item
+Eater of Worlds Item
+
+#------------------------------------
+#   [0403] Boots
+#------------------------------------
+
+#------------------------------------
+#   [0404] Gloves
+#------------------------------------
+
+#------------------------------------
+#   [0405] Shields
+#------------------------------------
+
+
+#===============================================================================================================
+# [[0500]] Skill Gems
+#===============================================================================================================
+
+#------------------------------------
+#   [0501] Active Skills
+#------------------------------------
 Item Class: Active Skill Gems
 Rarity: Gem
 Blade Vortex
@@ -124,24 +268,211 @@ Place into an item socket of the right colour to gain this skill. Right click to
 Corrupted
 
 
-Item Class: Helmets
-Rarity: Normal
-Superior Bone Helmet
+
+#===============================================================================================================
+# [[0600]] Maps and Map-likes
+#===============================================================================================================
+
+#------------------------------------
+#   [0601] Maps
+#------------------------------------
+
+
+Item Class: Maps
+Rarity: Rare
+Mystic Secrets
+Strand Map
 --------
+Map Tier: 16
+Item Quantity: +69% (augmented)
+Item Rarity: +29% (augmented)
+Monster Pack Size: +19% (augmented)
 Quality: +20% (augmented)
-Armour: 254 (augmented)
-Energy Shield: 52 (augmented)
+--------
+Item Level: 84
+--------
+Players cannot inflict Exposure
+Monsters Blind on Hit
+Area is inhabited by Abominations
+Players have 25% less Area of Effect
+--------
+Travel to this Map by using it in a personal Map Device. Maps can only be used once.
+--------
+Corrupted
+
+#------------------------------------
+#   [0602] Logbooks
+#------------------------------------
+
+Item Class: Expedition Logbooks
+Rarity: Rare
+Hidden Waste
+Expedition Logbook
+--------
+Item Quantity: +55% (augmented)
+Item Rarity: +32% (augmented)
+Monster Pack Size: +21% (augmented)
+Area Level: 81
+--------
+Item Level: 81
+--------
+Desert Ruins
+Black Scythe Mercenaries
+17% increased quantity of Artifacts dropped by Monsters (implicit)
+Excavated Chests have a 17% chance to contain twice as many Items (implicit)
+Area contains 19% increased number of Monster Markers (implicit)
+--------
+Cemetery
+Black Scythe Mercenaries
+32% increased quantity of Artifacts dropped by Monsters (implicit)
+Area contains 10 additional Chest Markers (implicit)
+Area contains 23% increased number of Remnants (implicit)
+--------
+Monsters have 100% increased Area of Effect
+Monsters deal 104% extra Physical Damage as Fire
+Monsters deal 103% extra Physical Damage as Cold
+Monsters cannot be Taunted
+Monsters' Action Speed cannot be modified to below base value
+--------
+Take this item to Dannig in your Hideout to open portals to an expedition.
+
+
+#------------------------------------
+#   [0603] Contracts
+#------------------------------------
+
+Item Class: Contracts
+Rarity: Rare
+Rapture Pledge
+Contract: Bunker
+--------
+Client: Marcine Clavus
+Heist Target: Enigmatic Assembly B2 (Moderate Value)
+Area Level: 78
+Requires Lockpicking (Level 3)
+Item Quantity: +58% (augmented)
+Item Rarity: +34% (augmented)
+Alert Level Reduction: +22% (augmented)
+Time Before Lockdown: +22% (augmented)
+Maximum Alive Reinforcements: +22% (augmented)
+--------
+Item Level: 78
+--------
+Patrolling Monsters deal 30% increased Damage
+Reward Room Monsters deal 28% increased Damage
+Reward Rooms have 24% increased Monsters
+Monsters gain a Power Charge on Hit
+--------
+"There is no telling what this device may do when completed, but I
+have made it my life's work. There must be a deeper meaning!"
+--------
+Give this Contract to Adiyah in the Rogue Harbour to embark on the Heist.
+
+
+#------------------------------------
+#   [0604] Blueprints
+#------------------------------------
+
+
+Item Class: Blueprints
+Rarity: Rare
+Fate Covenant
+Blueprint: Records Office
+--------
+Heist Target: Enchanted Armaments
+Area Level: 83
+Wings Revealed: 1/3
+Escape Routes Revealed: 1/6
+Reward Rooms Revealed: 3/21
+Requires Brute Force (Level 2)
+Requires Trap Disarmament (Level 5)
+Requires Deception (Level 3)
+Item Quantity: +67% (augmented)
+Item Rarity: +38% (augmented)
+Alert Level Reduction: +25% (augmented)
+Time Before Lockdown: +25% (augmented)
+Maximum Alive Reinforcements: +25% (augmented)
+--------
+Item Level: 83
+--------
+Guards take 29% reduced Damage
+Patrol Packs take 29% reduced damage
+Reward Room Monsters take 30% reduced Damage
+-4% maximum Player Resistances per 25% Alert Level
+--------
+Use Intelligence to Reveal additional Wings and Rooms by talking to certain NPCs in the Rogue Harbour. Give this Blueprint to Adiyah to embark on the Grand Heist.
+
+
+#===============================================================================================================
+# [[0700]] Sentinels
+#===============================================================================================================
+
+#------------------------------------
+#   [0603] Pandemonium Sentinels
+#------------------------------------
+
+
+Item Class: Sentinel
+Rarity: Rare
+Eerie Watcher
+Primeval Pandemonium Sentinel
+--------
+Duration: 10 seconds
+Empowers: 120 enemies
+Empowerment: 40 (augmented)
 --------
 Requirements:
-Level: 73
-Str: 76
-Int: 76
+Level: 68
 --------
-Sockets: B-R 
+Item Level: 79
 --------
-Item Level: 85
+Empowers many enemies in one shot (implicit)
+Fires an additional Beam (implicit)
 --------
-Minions deal 15% increased Damage (implicit)
+48% increased Cast Speed
+2.9% chance for Empowered Enemies to have an Armour Reward
+3.1% chance for Empowered Enemies to have a Divination Card Reward
+--------
+Charge: 12/18
+--------
+Unmodifiable
+
+
+
+#===============================================================================================================
+# [[0600]] Divination Cards
+#===============================================================================================================
+
+Item Class: Divination Cards
+Rarity: Divination Card
+The Union
+--------
+Stack Size: 4/7
+--------
+10x Gemcutter's Prism
+--------
+On the 21st of Eterni, 
+two become one, 
+their light outshines 
+the setting sun.
+--------
+Shift click to unstack.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
