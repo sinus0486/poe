@@ -1,0 +1,147 @@
+Item Class: Stackable Currency
+Rarity: Currency
+Exalted Orb
+--------
+Stack Size: 10/10
+--------
+Augments a rare item with a new random modifier
+--------
+Right click this item then left click a rare item to apply it. Rare items can have up to six random modifiers.
+Shift click to unstack.
+
+
+
+Item Class: Sceptres
+Rarity: Rare
+Apocalypse Roar
+Opal Sceptre
+--------
+Sceptre
+Physical Damage: 49-73
+Critical Strike Chance: 6.50%
+Attacks per Second: 1.25
+Weapon Range: 11
+--------
+Requirements:
+Level: 70
+Str: 106
+Int: 155
+--------
+Sockets: B-B-R 
+--------
+Item Level: 85
+--------
+40% increased Elemental Damage (implicit)
+--------
++36% to Fire Damage over Time Multiplier
+Adds 1 to 35 Lightning Damage to Spells
++73 to maximum Mana
+10% increased Mana Regeneration Rate
+Minions deal 67% increased Damage
+Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown (crafted)
+Spells Triggered this way have 150% more Cost (crafted)
+
+
+
+
+Item Class: Belts
+Rarity: Rare
+Rune Bind
+Stygian Vise
+--------
+Quality (Life and Mana Modifiers): +20% (augmented)
+--------
+Requirements:
+Level: 67
+--------
+Sockets: A 
+--------
+Item Level: 88
+--------
+Has 1 Abyssal Socket (implicit)
+--------
++85 to maximum Life
++46% to Fire Resistance
++40% to Lightning Resistance
++35% to Chaos Resistance
+Regenerate 30 Life per second (crafted)
++54 to maximum Mana (crafted)
+
+
+Item Class: Maps
+Rarity: Rare
+Mystic Secrets
+Strand Map
+--------
+Map Tier: 16
+Item Quantity: +69% (augmented)
+Item Rarity: +29% (augmented)
+Monster Pack Size: +19% (augmented)
+Quality: +20% (augmented)
+--------
+Item Level: 84
+--------
+Players cannot inflict Exposure
+Monsters Blind on Hit
+Area is inhabited by Abominations
+Players have 25% less Area of Effect
+--------
+Travel to this Map by using it in a personal Map Device. Maps can only be used once.
+--------
+Corrupted
+
+
+Item Class: Active Skill Gems
+Rarity: Gem
+Blade Vortex
+--------
+Critical, Spell, AoE, Duration, Physical
+Level: 1
+Cost: 6 Mana
+Cast Time: 0.50 sec
+Critical Strike Chance: 6.00%
+Effectiveness of Added Damage: 30%
+Quality: +23% (augmented)
+--------
+Requirements:
+Level: 12
+Dex: 33
+--------
+This spell creates ethereal blades which orbit in an area around you, dealing damage every 0.6 seconds to all enemies in their radius. As more blades are added, the damage becomes greater and more frequent.
+--------
+Deals 3 to 5 Physical Damage
+Base duration is 4.00 seconds
+11% increased Area of Effect
+35% increased Hit Rate for each blade
+35% more Damage for each blade
+Can have up to 10 active spinning blades
+10% increased Critical Strike Chance for each blade
+--------
+Experience: 1/15,249
+--------
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
+--------
+Corrupted
+
+
+Item Class: Helmets
+Rarity: Normal
+Superior Bone Helmet
+--------
+Quality: +20% (augmented)
+Armour: 254 (augmented)
+Energy Shield: 52 (augmented)
+--------
+Requirements:
+Level: 73
+Str: 76
+Int: 76
+--------
+Sockets: B-R 
+--------
+Item Level: 85
+--------
+Minions deal 15% increased Damage (implicit)
+
+
+
