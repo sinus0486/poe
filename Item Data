@@ -23,12 +23,20 @@
 #   [0501] Active Skills
 # [[0600]] Map and Map-likes
 #   [0601] Maps
-#   [0602] Logbooks
-#   [0603] Contracts
-#   [0604] Blueprints
+#   [0602] Negative Maps Mods
+#   [0603] Logbooks
+#   [0604] Contracts
+#   [0605] Blueprints
 # [[0600]] Sentinels
 #   [0603] Pandemonium Sentinels
 # [[0700]] Divination Cards
+# [[0800]] Jewels
+#   [0801] Abyss Jewels
+#   [0802] Abyss Jewels
+#   [0803] Abyss Jewels
+#   [0804] Abyss Jewels
+
+
 
 
 
@@ -301,7 +309,41 @@ Travel to this Map by using it in a personal Map Device. Maps can only be used o
 Corrupted
 
 #------------------------------------
-#   [0602] Logbooks
+#   [0602] Negative Maps Mods
+#------------------------------------
+
+| Mod                                                                    | RegEx |
+|------------------------------------------------------------------------|-------|
+| Monsters reflect #% of Elemental Damage                                | tal d |
+| Monsters reflect #% of Physical Damage                                 | of p  |
+| Players cannot Regenerate Life, Mana or Energy Shield                  | e,    |
+| Players have #% less Recovery Rate of Life and Energy Shield           | rec   |
+| Area has patches of Burning Ground                                     | g g   |
+| Area has patches of Chilled Ground                                     | led g |
+| Area has patches of Desecrated ground                                  | ted g |
+| Monsters have #% increased Area of Effect                              | d ar  |
+| Players have #% less Area of Effect                                    | ss ar |
+| Monsters have #% increased Critical Strike Chance                      | d cr  |
+| Cannot Leech from Monsters                                             | eec   |
+| Monsters have #% chance to Avoid Elemental Ailments                    | d el  |
+| Monsters have a #% chance to cause Elemental Ailments on Hit           | e el  |
+| Monsters take #% reduced Extra Damage from Critical Strike             | ed e  |
+| Players are Cursed with Elemental Weakness                             | wea   |
+| Players are Cursed with Temporal Chains                                | temp  |
+| Players are Cursed with Vulnerability                                  | vu    |
+| -#% maximum Player Resistances                                         | r r   |
+| Players have #% reduced Chance to Block                                | o bl  |
+| Players have -#% to amount of Suppressed Spell Damage Prevented        | sup   |
+| Area has patches of Shocked Ground which increase Damage taken by 50%  | ked   |
+| Monsters are Hexproof                                                  | xpr   |
+| Monsters Poison on Hit                                                 | on on |
+| Monsters have a #% chance to avoid Poison, Blind, and Bleeding         | ind   |
+| Players cannot inflict Exposure                                        | ct e  |
+| Lockdown occurs immediately when Alert Level is full                   | imm   |
+| Alert Level increases by 0.2% per second                               | seco  |
+
+#------------------------------------
+#   [0603] Logbooks
 #------------------------------------
 
 Item Class: Expedition Logbooks
@@ -338,7 +380,7 @@ Take this item to Dannig in your Hideout to open portals to an expedition.
 
 
 #------------------------------------
-#   [0603] Contracts
+#   [0604] Contracts
 #------------------------------------
 
 Item Class: Contracts
@@ -370,7 +412,7 @@ Give this Contract to Adiyah in the Rogue Harbour to embark on the Heist.
 
 
 #------------------------------------
-#   [0604] Blueprints
+#   [0605] Blueprints
 #------------------------------------
 
 
