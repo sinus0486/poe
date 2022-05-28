@@ -2991,7 +2991,7 @@ SetBackgroundColor 0 80 30 255
 
 Show # %D3 $type->rr $tier->t1weapons
 ItemLevel >= 68
-Rarity Rare
+Rarity <= Rare
 BaseType  "Opal Sceptre"  "Void Sceptre" "Carnal Sceptre"
 SetBackgroundColor 0 0 0 255
 
