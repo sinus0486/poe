@@ -881,7 +881,7 @@ Show # %HS4 $type->exoticmods $tier->t2veil
 #   [0502] Physical
 #------------------------------------
 
-Show # $type->rareid $tier->weapon_phys
+hide # $type->rareid $tier->weapon_phys
 	Identified True
 	DropLevel >= 55
 	Rarity Rare
